@@ -5,5 +5,5 @@ main(){
     /* \t para colocar uma tabulação*/    
     printf("2 -\tFornecedores\n");
     printf("3 -\tFaturas\n");
-    printf("0 -\tSair\n");
+    printf("0 -\tSair\n");  
 }
