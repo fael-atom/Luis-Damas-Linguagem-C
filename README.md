@@ -1,4 +1,8 @@
-# Linguagem C - Luis Damas
+<h1 align="center">Linguagem C - Luis Damas</h1>
+<div  align="center">
+<img src="./imagens/capa-livro.jpg" width="30%" />
+</div>
+<br>
 
 Este repositório tem o objetivo de auxiliar os leitores do livro "Linguagem C", do autor Luis Damas. Aqui você encontrará o código dos exemplos presentes nos capítulos, assim como a resolução dos exercícios propostos.
 
@@ -25,5 +29,9 @@ Traz um conjunto de exercícios resolvidos pelo autor ao final de cada capítulo
 ### Exercícios Propostos
 
 Traz a resolução de exercícios deixados no final do livro. Fique à vontade para propor soluções alternativas! 😉
+
+## Vídeos das Resoluções
+
+Em breve estarei disponibilizando as resoluções em vídeo dos exercícios propostos.
 
 
