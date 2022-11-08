@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 main(){
     float salario;
     printf("Qual o salário: ");
